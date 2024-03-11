@@ -1,0 +1,7 @@
+Dataset,Model,Epochs,Batch size,Layers,Learning rate,Test acc,Confidence Interval Half,Confidence Interval
+Audio_MNIST,VQC_angle_list,50,5,6,0.001,0.2239,0.0376,"[0.1863, 0.2614]"
+Audio_MNIST,VQC_amplitude_list,50,5,6,0.1,0.2651,0.0246,"[0.2406, 0.2897]"
+Audio_MNIST,dressed_quantum_list,50,5,6,0.1,0.4292,0.2978,"[0.1314, 0.727]"
+Audio_MNIST,sequent_quantum_list,50,5,6,0.1,0.3999,0.0796,"[0.3203, 0.4796]"
+Audio_MNIST,NN_with_compressed_input_list,50,5,6,0.01,0.2956,0.0498,"[0.2458, 0.3454]"
+Audio_MNIST,NN_with_original_input_list,50,5,6,0.1,0.8759,0.0922,"[0.7837, 0.9681]"

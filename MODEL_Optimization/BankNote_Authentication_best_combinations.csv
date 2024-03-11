@@ -1,0 +1,7 @@
+Dataset,Model,Epochs,Batch size,Layers,Learning rate,Test acc,Confidence Interval Half,Confidence Interval
+BankNote_Authentication,VQC_angle_list,100,5,6,0.01,0.7841,0.0515,"[0.7326, 0.8355]"
+BankNote_Authentication,VQC_amplitude_list,100,5,6,0.01,0.8319,0.0321,"[0.7998, 0.8639]"
+BankNote_Authentication,dressed_quantum_list,100,5,6,0.1,0.9928,0.0064,"[0.9864, 0.9991]"
+BankNote_Authentication,sequent_quantum_list,100,5,6,0.1,0.9812,0.0197,"[0.9614, 1.0009]"
+BankNote_Authentication,NN_with_compressed_input_list,100,5,6,0.1,0.6884,0.1504,"[0.538, 0.8388]"
+BankNote_Authentication,NN_with_original_input_list,100,5,6,0.1,0.9928,0.009,"[0.9838, 1.0018]"
